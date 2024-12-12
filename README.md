@@ -15,7 +15,6 @@ Les objectifs sont :
 ### Dossiers Principaux
 - `automatisation/` : Contient les scripts pour extraire, convertir et transformer les données en images.
 - `dataset/` : Contient les données utilisées pour l'entraînement, la validation et les tests.
-- `model/` : Contient le modèle CNN entraîné sauvegardé au format `.keras`.
 - `notebooks/` : Contient le code Jupyter détaillant chaque étape de la mise en œuvre.
 - `training/` : Contient les fichiers liés aux processus d'entraînement.
 

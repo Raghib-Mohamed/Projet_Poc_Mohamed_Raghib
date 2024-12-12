@@ -15,8 +15,7 @@ Les objectifs sont :
 ### Dossiers Principaux
 - `automatisation/` : Contient les scripts pour extraire, convertir et transformer les données en images.
 - `dataset/` : Contient les données utilisées pour l'entraînement, la validation et les tests.
-- `notebooks/` : Contient le code Jupyter détaillant chaque étape de la mise en œuvre.
-- `training/` : Contient les fichiers liés aux processus d'entraînement.
+- `training/` : Contient le code d'entraînement.
 
 ## Temps d'Exécution
 L'entraînement du modèle peut prendre un temps considérable, approximativement entre 1h30 et 2h, en fonction des ressources matérielles disponibles.
